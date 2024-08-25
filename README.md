@@ -13,24 +13,7 @@ Pergunta ao usuário se ele deseja fazer mais algum pedido.
 Como Usar
 Clone o repositório para sua máquina local:
 
-bash
-Copiar código
-git clone https://github.com/seu-usuario/seu-repositorio.git
-Navegue até o diretório do projeto:
 
-bash
-Copiar código
-cd seu-repositorio
-Execute o script Python:
-
-bash
-Copiar código
-python nome_do_seu_arquivo.py
-Siga as instruções no terminal para fazer o pedido.
-
-Exemplo de Saída
-scss
-Copiar código
 Seja bem-vindo(a) ao nosso sistema, Darlan Monteiro.
 
  -------------------------Cardápio------------------------
@@ -43,8 +26,10 @@ Digite o sabor BA para Bife Acebolado ou FF para Filé de Frango:
 Digite o tamanho P para Pequeno, M para Médio e G para Grande: 
 Deja pedir mais alguma coisa? SIM/NÃO: 
 O valor do pedido foi de: R$ 16.00
+
 Requisitos
 Python 3.x
+
 Contribuições
 Se você quiser contribuir para este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request. Certifique-se de seguir as boas práticas de codificação e testar suas alterações.
 
