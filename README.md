@@ -13,20 +13,6 @@ Pergunta ao usuário se ele deseja fazer mais algum pedido.
 Como Usar
 Clone o repositório para sua máquina local:
 
-
-Seja bem-vindo(a) ao nosso sistema, Darlan Monteiro.
-
- -------------------------Cardápio------------------------
-| Tamanho | | Bife Acebolado(BA) | | Filé de Frango(FF) |
-|    P    | |    R$ 16.00        | |    R$ 15.00        |
-|    M    | |    R$ 18.00        | |    R$ 17.00        |
-|    G    | |    R$ 22.00        | |    R$ 21.00        |
- ---------------------------------------------------------
-Digite o sabor BA para Bife Acebolado ou FF para Filé de Frango: 
-Digite o tamanho P para Pequeno, M para Médio e G para Grande: 
-Deja pedir mais alguma coisa? SIM/NÃO: 
-O valor do pedido foi de: R$ 16.00
-
 Requisitos
 Python 3.x
 
